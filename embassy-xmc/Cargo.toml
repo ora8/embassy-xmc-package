@@ -1,0 +1,21 @@
+[workspace]
+resolver = "2"
+members = ["embassy-xmc", "embassy-xmc-test"]
+
+[workspace.package]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+version = "0.1.0"
+
+[workspace.dependencies]
+cortex-m = { version = "0.7", features = ["critical-section-single-core"] }
+# set-sp / set-vtor: der Reset-Handler setzt Stackpointer und Vektortabelle selbst
+# (wie der offizielle Infineon-Startup-Code), statt sich auf den Bootloader zu verlassen
+cortex-m-rt = { version = "0.7", features = ["set-sp", "set-vtor"] }
+critical-section = "1.2"
+embassy-executor = { version = "0.10", features = ["platform-cortex-m", "executor-thread"] }
+embassy-time = { version = "0.5", features = ["tick-hz-1_000"] }
+embassy-time-driver = "0.2"
+embassy-time-queue-utils = "0.3"
+embassy-sync = "0.8"
+panic-halt = "1"
