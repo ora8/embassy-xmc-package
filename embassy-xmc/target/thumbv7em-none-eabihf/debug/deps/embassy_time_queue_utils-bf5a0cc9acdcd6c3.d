@@ -1,8 +1,0 @@
-/home/urs-wagner/Rust/embassy-xmc-package/embassy-xmc/target/thumbv7em-none-eabihf/debug/deps/embassy_time_queue_utils-bf5a0cc9acdcd6c3.d: /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/lib.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/queue_generic.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/queue_integrated.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/../README.md
-
-/home/urs-wagner/Rust/embassy-xmc-package/embassy-xmc/target/thumbv7em-none-eabihf/debug/deps/libembassy_time_queue_utils-bf5a0cc9acdcd6c3.rmeta: /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/lib.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/queue_generic.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/queue_integrated.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/../README.md
-
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/lib.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/queue_generic.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/queue_integrated.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-queue-utils-0.3.2/src/../README.md:

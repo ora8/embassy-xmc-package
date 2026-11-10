@@ -1,9 +1,0 @@
-/home/urs-wagner/Rust/embassy-xmc-package/embassy-xmc/target/thumbv7em-none-eabihf/debug/deps/embedded_io_async-d39997162f27d3ab.d: /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/lib.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/mod.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/slice_mut.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/slice_ref.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/../README.md
-
-/home/urs-wagner/Rust/embassy-xmc-package/embassy-xmc/target/thumbv7em-none-eabihf/debug/deps/libembedded_io_async-d39997162f27d3ab.rmeta: /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/lib.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/mod.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/slice_mut.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/slice_ref.rs /home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/../README.md
-
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/lib.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/mod.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/slice_mut.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/impls/slice_ref.rs:
-/home/urs-wagner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embedded-io-async-0.7.0/src/../README.md:
