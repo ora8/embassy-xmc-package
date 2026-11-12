@@ -40,10 +40,13 @@ async fn led1_task() {
     // Ticker statt Timer::after: kein Drift, die Periode bleibt exakt
     let mut ticker = Ticker::every(Duration::from_millis(500));
     let mut n: u32 = 0;
-    let led_pin = unsafe { Pin::new_unchecked(5, 8) }; // Beispiel für LED Pin auf Port 5, Pin 8
-    let mut led = Output::new(led_pin, Level::Low);
+    let led1_pin = unsafe { Pin::new_unchecked(5, 8) }; // Beispiel für LED Pin auf Port 5, Pin 8
+    let mut led1 = Output::new(led1_pin, Level::Low);
+    let led2_pin = unsafe { Pin::new_unchecked(5, 9) }; // Beispiel für LED Pin auf Port 5, Pin 9
+    let mut led2 = Output::new(led2_pin, Level::High);
     loop {
-        led.toggle();
+        led1.toggle();
+        led2.toggle();
         n = n.wrapping_add(1);
         BLINK_EVENT.signal(n);
         ticker.next().await;
